@@ -1,0 +1,1 @@
+{"name":"Neo4j-embedded","body":"### Sample grails project with embedded Neo4J.\r\n\r\nAfter checking out,\r\n\r\n```\r\n$ grails run-app\r\n```\r\n","tagline":"Sample grails neo4j to debug an issue","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
