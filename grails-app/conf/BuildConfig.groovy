@@ -42,8 +42,7 @@ grails.project.dependency.resolution = {
 
 
         compile(group:"org.neo4j.app", name:"neo4j-server", version:"1.6.1")
-        runtime(group:"org.neo4j.app", name:"neo4j-server", version:"1.6.1",
-                branch:"static-web")
+        //runtime(group:"org.neo4j.app", name:"neo4j-server", version:"1.6.1", branch:"static-web")
         runtime('com.sun.jersey:jersey-server:1.9')
         runtime('com.sun.jersey:jersey-core:1.9')
 
